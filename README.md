@@ -1,5 +1,6 @@
 # Jackpot [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+<img src="/Jackpot/UI.ico" alt="drawing" width="100"/>
 
 ### Jackpot is a smiple modal of a real casino jackpot. You can enter three numbers and find your luck.
 
